@@ -1,6 +1,5 @@
 # Untargeted Adversarial Attack on Knowledge Graph Embeddings
-To get started, please download some necessary files related to this project from [Baidu Netdisk](通过网盘分享的文件：data_processed
-链接: https://pan.baidu.com/s/1o3eS8EOyifPQsZGyaZ4xQw 提取码: 71wb). The folder name is `data_processed`. Place this folder in the project directory.
+To get started, please download some necessary files related to this project from [Baidu Netdisk](https://pan.baidu.com/s/14jlWk9JFlJNI-xSYz0n3pg?pwd=car2). The folder name is `data_processed`. Place this folder in the project directory.
 ## Addition
 
 `cd code/add_code `
