@@ -3,11 +3,15 @@ To get started, please download some necessary files related to this project fro
 ## Addition
 
 `cd code/add_code `
+
 `python generate_neg_rules.py`
+
 `python generate_neg_triples.py`
 
 ## Deletion
 
 `cd code/del_code `
+
 `python generate_del_instances.py`
+
 `python genarate_del_triples.py`
