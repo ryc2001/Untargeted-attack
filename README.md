@@ -15,4 +15,5 @@ To get started, please download some necessary files related to this project fro
 `python generate_del_instances.py --dataset <dataset_name>`
 
 `python genarate_del_triples.py --dataset <dataset_name>`
+
 Acceptable values for `--dataset` are `WN18RR` or `FB15k237`.
