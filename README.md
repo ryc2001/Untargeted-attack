@@ -1,4 +1,5 @@
 # Untargeted Adversarial Attack on Knowledge Graph Embeddings
+![Model](model_untargeted.png)
 To get started, please download some necessary files related to this project from [Baidu Netdisk](https://pan.baidu.com/s/1E_bN8LJGRLwzPSGSUzpF1Q?pwd=kpqp). The folder name is `data_processed`. Place this folder in the project directory.
 ## Addition
 
